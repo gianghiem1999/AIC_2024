@@ -1,4 +1,4 @@
-```
+<pre>
 System/
 |---clip_model/
 |---csv_data/
@@ -7,5 +7,5 @@ System/
     |-----/
 |---map/
 |---result/
-```
+</pre>
 Resource link: https://drive.google.com/file/d/1TiNs1tXzLbXTk34UPbMwpleZwRq3Zsy3/view?usp=drive_link
