@@ -15,7 +15,9 @@ Using Anaconda and Install separated environment:
 ```
 conda create -n AIC python==3.9.19
 ```
-
+```
+pip install --upgrade setuptools
+```
 ```
 pip install pyqt5 socketio[client] python-socketio eventlet googletrans==4.0.0-rc1 spacy torch transformers scikit-learn pandas numpy pillow
 ```
