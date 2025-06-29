@@ -16,3 +16,6 @@ pip install pyqt5 socketio[client] python-socketio eventlet googletrans==4.0.0-r
 ```
 python -m spacy download en_core_web_sm
 ```
+```
+pip install pillow setuptools --upgrade
+```
