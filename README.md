@@ -24,3 +24,9 @@ pip install PyQt5 googletrans==4.0.0-rc1 spacy
 ```
 python -m spacy download en_core_web_sm
 ```
+```
+python server.py
+```
+```
+python app.py
+```
